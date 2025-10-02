@@ -1,4 +1,16 @@
-# practice-repo-f25
-This is a class example to help me understand what i am doing. 
+helloo grins 
+ddvjivdjvodjvjodoj
 
-This is a change that I made through github.com. I will pull it down. 
+#title page
+##heading
+- item 1
+- item 2
+
+##heading
+- item 3
+- item 4
+# heading 1
+## heading 2
+**hello** 
+![Alt text] (/Users/gabrielleyoung/Downloads/Fanshawe/Multi-Media Authoring/practice-repo-f25/images/Young_Gabrielle_Prom-13.JPG)
+![PICTURE OF AN](images/Binh_An_Photo.JPG)

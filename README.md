@@ -19,3 +19,4 @@ ddvjivdjvodjvjodoj
 # heading 1
 ## heading 2
 **hello** 
+![Alt text] (/Users/gabrielleyoung/Downloads/Fanshawe/Multi-Media Authoring/practice-repo-f25/images/Young_Gabrielle_Prom-13.JPG)
